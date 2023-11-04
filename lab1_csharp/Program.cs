@@ -1,7 +1,4 @@
-﻿
-using Microsoft.VisualBasic;
-
-namespace lab1_csharp;
+﻿namespace lab1_csharp;
 
 // Вариант 2
 // Сортировка слиянием по частоте появления слов в тексте.
