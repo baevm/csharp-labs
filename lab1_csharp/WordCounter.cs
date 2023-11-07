@@ -27,6 +27,6 @@ public abstract class WordCounter
     
     private static string RemoveSpecialCharacters(string str)
     {
-        return Regex.Replace(str, "[^a-zA-Z0-9_]+", "", RegexOptions.Compiled);
+        return Regex.Replace(str, "[^a-zа-яA-ZА-Я0-9_]+", "", RegexOptions.Compiled);
     }
 }
