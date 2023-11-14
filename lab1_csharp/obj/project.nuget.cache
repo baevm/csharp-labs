@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "K5DagfZUD3u2e/HN5Za49er3pKUmWsN0YMTqPvWDZv8sR0e3FhEdlcht8/pGJEqnKrdm8xWt5fuUUWHtBsGxQA==",
+  "dgSpecHash": "NscCt3UBttJNafxoJz7yXo+Nj8rNjmR0T5+BEiPMRsj5zNfFmLPs/ZKhDATk3he4V5x6VTCrU2hnJ5ELIUH6Jw==",
   "success": true,
   "projectFilePath": "/home/baevm/lab/labs_csharp/lab1_csharp/lab1_csharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/baevm/.nuget/packages/nunit/4.0.0-beta.1/nunit.4.0.0-beta.1.nupkg.sha512"
+  ],
   "logs": []
 }

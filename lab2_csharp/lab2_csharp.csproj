@@ -8,4 +8,8 @@
         <UserSecretsId>d9c275ab-be78-4d09-aa92-579a93aa1236</UserSecretsId>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="NUnit" Version="4.0.0-beta.1" />
+    </ItemGroup>
+
 </Project>
