@@ -9,18 +9,18 @@ internal class Program
         // Угол x в градусах
         Console.Write("x (в градусах): ");
         var x = Convert.ToDouble(Console.ReadLine());
-
+        
         // Перевод из градусов в радианы
         x = x * Math.PI / 180;
         
         // Количество членов в ряде
         Console.Write("n: ");
         var n = Convert.ToInt32(Console.ReadLine());
-
+        
         var result = Calculate(x, n);
         Console.WriteLine($"результат: {result}");
     }
-    
+   
     // Ряд тейлора для sin(x)
     static double Calculate(double x, int n)
     {

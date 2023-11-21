@@ -28,3 +28,6 @@
 /home/baevm/lab/labs_csharp/lab2_csharp/obj/Release/net7.0/lab2_csharp.pdb
 /home/baevm/lab/labs_csharp/lab2_csharp/obj/Release/net7.0/lab2_csharp.genruntimeconfig.cache
 /home/baevm/lab/labs_csharp/lab2_csharp/obj/Release/net7.0/ref/lab2_csharp.dll
+/home/baevm/lab/labs_csharp/lab2_csharp/bin/Release/net7.0/nunit.framework.dll
+/home/baevm/lab/labs_csharp/lab2_csharp/bin/Release/net7.0/nunit.framework.legacy.dll
+/home/baevm/lab/labs_csharp/lab2_csharp/obj/Release/net7.0/lab2_csharp.csproj.CopyComplete

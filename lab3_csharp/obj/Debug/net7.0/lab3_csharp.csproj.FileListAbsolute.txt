@@ -1,0 +1,15 @@
+/home/baevm/lab/labs_csharp/lab3_csharp/bin/Debug/net7.0/lab3_csharp
+/home/baevm/lab/labs_csharp/lab3_csharp/bin/Debug/net7.0/lab3_csharp.deps.json
+/home/baevm/lab/labs_csharp/lab3_csharp/bin/Debug/net7.0/lab3_csharp.runtimeconfig.json
+/home/baevm/lab/labs_csharp/lab3_csharp/bin/Debug/net7.0/lab3_csharp.dll
+/home/baevm/lab/labs_csharp/lab3_csharp/bin/Debug/net7.0/lab3_csharp.pdb
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.csproj.AssemblyReference.cache
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.AssemblyInfoInputs.cache
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.AssemblyInfo.cs
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.csproj.CoreCompileInputs.cache
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.dll
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/refint/lab3_csharp.dll
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.pdb
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/lab3_csharp.genruntimeconfig.cache
+/home/baevm/lab/labs_csharp/lab3_csharp/obj/Debug/net7.0/ref/lab3_csharp.dll
